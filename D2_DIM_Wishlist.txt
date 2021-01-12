@@ -12,10 +12,13 @@ dimwishlist:item=981718087&perks=1441682018,2822142346,2010801679,3592538738
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
 
 // The Lament
+//notes:Exotic
 dimwishlist:item=3487253372&perks=
 
 // Xenophage
+//notes:Exotic
 dimwishlist:item=1395261499&perks=
 
 // Witherhoard
+//notes:Exotic
 dimwishlist:item=2357297366&perks=
