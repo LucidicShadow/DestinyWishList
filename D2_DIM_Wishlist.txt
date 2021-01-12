@@ -4,8 +4,6 @@ title:Personal wish list
 //notes:Ehroar (PvE / M+KB) Recommended perks
 dimwishlist:item=1197486957&perks=106909392,2010801679,3592538738
 
-//Deafening Whisper
-//notes:Ehroar (PvE / M+KB) Recommended perks
-dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
-dimwishlist:item=981718087&perks=1441682018,2822142346,2010801679,3592538738
-dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
+// Deafening Whisper
+//notes:Ehroar (PvE / M+KB): Recommended perks|tags:pve,mkb
+dimwishlist:item=981718087&perks=2822142346,2010801679,3592538738
